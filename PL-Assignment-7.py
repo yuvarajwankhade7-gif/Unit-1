@@ -38,7 +38,7 @@ class Manager(Employee):
 
 # ---------------- Main Program ----------------
 if __name__ == "__main__":
-    manager1 = Manager("Yatharth Sharma", 19, "EMP101", 75000, "IT")
+    manager1 = Manager("Piyush Mule", 19, "EMP101", 75000, "IT")
 
     manager1.get_manager_info()
     manager1.conduct_meeting()
